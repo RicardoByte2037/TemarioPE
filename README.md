@@ -1,8 +1,9 @@
 # TemarioPE     
 ## Probabilidad y Estadistica.      
-        
-Ricardo López Cruz (230110088).     
-13/06/2024      
+
+Ricardo López Cruz (230110088).
+2°'B'            
+13/06/2024          
 Temario para la asignatura de verano "Probabilidad y Estadistica"        correspondiente al tema 1, incluyendo los subtemas de Estadística descriptiva:         
 
 - 1.1 Conceptos básicos de estadística: Definición,      
