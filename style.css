@@ -4,17 +4,8 @@ body {
     line-height: 1.6;
     color: #333;
     background-color: #f4f4f4;
-    margin: 0;
+    margin: 0 auto;
     padding: 0;
-}
-
-a {
-    color: #0066cc;
-    text-decoration: none;
-}
-
-a:hover {
-    text-decoration: underline;
 }
 
 h1,
@@ -30,14 +21,16 @@ h6 {
 h1 {
     font-size: 2.5rem;
     font-weight: 700;
-    color: #444;
+    color: #ffffff;
+    background-color: #444;
+    text-align: center;
 }
 
 h2 {
     font-size: 2rem;
     font-weight: 700;
     color: #444;
-    border-left: 0.5rem solid #0066cc;
+    border-left: 0.5rem solid #0570da;
     padding-left: 1rem;
 }
 
@@ -45,6 +38,8 @@ h3 {
     font-size: 1.5rem;
     font-weight: 700;
     color: #444;
+    border-left: 0.5rem solid #22568a;
+    padding-left: 3rem;
 }
 
 h4 {
@@ -78,7 +73,7 @@ h6 {
 /* Estilos para el encabezado y el nav */
 header,
 nav {
-    background-color: #333;
+    background-color: #3e3e3e;
     color: #fff;
     padding: 1rem;
 }
@@ -153,6 +148,12 @@ main section code {
 main section iframe {
     display: block;
     margin-bottom: 1rem;
+}
+
+a {
+    text-decoration: none;
+    color: #00698f;
+    text-align: center;
 }
 
 /*
