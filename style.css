@@ -157,3 +157,10 @@ code.mathjax {
 .MathJax_SVG {
     display: inline-block;
 }
+
+.video-caption {
+    font-size: 1.2em;
+    color: #666;
+    margin-top: 10px;
+    text-align: center;
+}
